@@ -1,0 +1,19 @@
+# Ignore all data, logs, environments, and personal files
+*.db
+*.sqlite
+*.mdb
+*.log
+*.pyc
+__pycache__/
+data/
+logs/
+*.env
+.env
+venv*/
+*.pyd
+*/site-packages/
+*.zip
+*.tar.gz
+.DS_Store
+*.egg-info/
+*.egg
