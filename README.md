@@ -49,3 +49,5 @@ Copy this and save it as `README.md` inside your project folder, then:
 git add README.md
 git commit -m "Add README with project description"
 git push
+
+you can add this bot on telegram @Nef3as_bot, pay and enjoy!
